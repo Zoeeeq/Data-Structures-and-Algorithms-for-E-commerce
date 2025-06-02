@@ -1,7 +1,7 @@
-from marketing_task import MarketingTask, TaskScheduler, TaskSchedulerWithDependencies
-from customer_network import Customer, CustomerNetwork
-from product_search import Product, ProductBST
-from disk_based_tree import DiskBasedProductIndex
+from modules.marketing_task import MarketingTask, TaskScheduler, TaskSchedulerWithDependencies
+from modules.customer_network import Customer, CustomerNetwork
+from modules.product_search import Product, ProductBST
+from modules.disk_based_tree import DiskBasedProductIndex
 import os
 import traceback
 

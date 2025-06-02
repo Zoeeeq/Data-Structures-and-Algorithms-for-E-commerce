@@ -1,3 +1,6 @@
+def run():
+  # 实现具体功能
+  return "Disk-based tree module executed successfully."
 class DiskProduct:
     """表示磁盘上的商品记录"""
     

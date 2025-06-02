@@ -12,7 +12,7 @@ if not os.path.exists('visualization'):
 import matplotlib.pyplot as plt
 import networkx as nx
 import numpy as np
-from visualization_utils import (
+from modules.visualization_utils import (
     visualize_heap, 
     visualize_customer_network, 
     visualize_pagerank_convergence,

@@ -1,3 +1,6 @@
+def run():
+  # 实现具体功能
+    return "Customer Network module executed successfully."
 class Customer:
     """表示网络中的一个客户"""
     
